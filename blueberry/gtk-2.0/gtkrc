@@ -1,4 +1,4 @@
-gtk_color_scheme	= "bg_color:#F1F1F1\nselected_bg_color:##3689e6\nbase_color:#FFF"	# Background, base
+gtk_color_scheme	= "bg_color:#F1F1F1\nselected_bg_color:#3689e6\nbase_color:#FFF"	# Background, base
 gtk_color_scheme	= "fg_color:#333333\nselected_fg_color:#FFF\ntext_color:#333333"	# Foreground, text
 gtk_color_scheme 	= "sidebar_color:#F1F1F1"                                           # Custom colors
 gtk_color_scheme	= "tooltip_bg_color:#000\ntooltip_fg_color:#FFF"                    # Tooltips
