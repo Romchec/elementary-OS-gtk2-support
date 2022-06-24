@@ -1,5 +1,5 @@
 # elementary-OS-gtk2-support
-## Accent colors support for gtk-2 apps
+## Accent colors support for GTK 2 apps
 ![showcase](https://raw.githubusercontent.com/Romchec/elementary-OS-gtk2-support/main/images/GIF.gif)
 
 ### Installation
