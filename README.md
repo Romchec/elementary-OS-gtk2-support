@@ -4,7 +4,7 @@
 
 ### Installation
 
-Git should be installed :
+Git should be installed first:
 ```
 sudo apt install git
 ```
