@@ -4,9 +4,9 @@
 
 ### Installation
 
-Git should be installed first:
+Install dependencies:
 ```
-sudo apt install git
+sudo apt install git gtk2-engines-murrine gtk2-engines-aurora 
 ```
 
 Open terminal and type line below:
