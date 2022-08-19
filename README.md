@@ -4,10 +4,23 @@
 
 ### Installation
 
+#### Step 1
+
 Install dependencies:
+##### elementary OS/Ubuntu
 ```
 sudo apt install git gtk2-engines-murrine gtk2-engines-aurora 
 ```
+##### Arch Linux
+```
+sudo pacman -S git gtk-engine-murrine --needed
+```
+##### Fedora
+````
+sudo dnf install git gtk-murrine-engine
+````
+
+#### Step 2
 
 Open terminal and type line below:
 ```
